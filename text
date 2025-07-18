@@ -1,1 +1,2 @@
 app/src/main/java/com/zidan/z_tasks/MainActivity.kt
+app/src/main/java/com/zidan/z_tasks/ui/SplashScreen.kt
